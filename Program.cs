@@ -10,7 +10,7 @@ Console.WriteLine( laptop.IsProductExpensive());
 /*int num1 = 23;
 int num2 = 28;
 
-Console.WriteLine($"Number1 is :{num1.IsOddOrEven()} and number 2 is :{num2.IsOddOrEven()}");*/
+Console.WriteLine($"{num1.IsOddOrEven()} and {num2.IsOddOrEven()}");*/
 
 
 
