@@ -1,0 +1,19 @@
+Extension Method
+
+In this video will see some of basic example of extension method. 
+
+1. String extension method
+
+2. Int extension method
+
+3. DataTime extension method
+
+4. Decimal extension method
+
+5. Custom extension method
+
+This way you can use extension method different ways.
+
+Try it yourself
+
+Thank you
