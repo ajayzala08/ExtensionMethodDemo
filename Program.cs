@@ -78,10 +78,13 @@ public static class ProductExtension
     {
         if (product.Price > 10000)
         {
+            Console.WriteLine("Product is expensive!");
             return "Product is expensive!";
         }
         else {
+            Console.WriteLine("Product is not expensive!");
             return "Product is not expensive!";
+            
         }
 
     }
